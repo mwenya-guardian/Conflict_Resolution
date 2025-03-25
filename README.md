@@ -1,2 +1,2 @@
 # Conflict_Resolution
-Conflict resolution simulation lab assignment
+Merge conflict resolution simulation lab assignment
